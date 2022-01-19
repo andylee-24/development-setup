@@ -1,13 +1,14 @@
 
-set nocompatible	" vundle
-filetype off		" vundle
+set nocompatible	" vundle required
+filetype off		" vundle required
 
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
 
 call vundle#begin()
-  Plugin 'itchyny/lightline.vim'
   Plugin 'preservim/nerdtree'
+  Plugin 'itchyny/lightline.vim'
+  Plugin 'morhetz/gruvbox'
 call vundle#end()
 
 filetype plugin indent on    " required
@@ -29,4 +30,16 @@ syntax on
 set noswapfile
 set number
 
+" Press [shift] while selecting with the mouse if you want to use
+" mouse to interact with terminal
+set mouse=a
+
+" nerdtree
 map <F2> :NERDTreeToggle<CR>
+
+" lightline
+set laststatus=2
+
+" gruvbox
+colorscheme gruvbox
+set bg=dark
