@@ -1,5 +1,6 @@
-# vimrc
+# vimrc  
 
+Note: Make sure that you're using vim, not a vi editor
 ---
 Use [Vundle](https://github.com/VundleVim/Vundle.vim) as a vim package manager.  
 
