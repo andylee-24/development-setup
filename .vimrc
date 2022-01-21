@@ -43,3 +43,9 @@ set laststatus=2
 " gruvbox
 colorscheme gruvbox
 set bg=dark
+
+" use backspace
+set backspace=2
+
+" indentations
+set shiftwidth=4		" # of spaces to use for each step of (auto) indent
