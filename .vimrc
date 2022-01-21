@@ -28,7 +28,6 @@ filetype plugin indent on    " required
 syntax on
 
 set noswapfile
-set number
 
 " Press [shift] while selecting with the mouse if you want to use
 " mouse to interact with terminal
@@ -47,5 +46,17 @@ set bg=dark
 " use backspace
 set backspace=2
 
-" indentations
+" searching
+set hlsearch			" enable search highlighting
+set ignorecase			" ignore case when searching
+
+" default indentations
 set shiftwidth=4		" # of spaces to use for each step of (auto) indent
+set tabstop=4			" # of spaces that a tab in the file counts for
+set expandtab			" use the appropriate number of spaces to insert a tab
+
+" miscs
+set number			" show line numbers on the left
+set autoread			" automatically refresh files if unmodified inside vim
+set encoding=utf-8		" use an encoding that supports unicode
+set history=256			" increase the undo limit
