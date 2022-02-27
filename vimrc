@@ -53,7 +53,10 @@ set ignorecase			" ignore case when searching
 " default indentations
 set shiftwidth=4		" # of spaces to use for each step of (auto) indent
 set tabstop=4			" # of spaces that a tab in the file counts for
-set noexpandtab			" use tabs, not spaces -> avoid python indentation errors
+
+" python
+autocmd FileType python setlocal tabstop=4 softtabstop=4 autoindent
+
 
 " miscs
 set number			" show line numbers on the left
