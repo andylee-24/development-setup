@@ -27,7 +27,6 @@ filetype plugin indent on    " required
 " enable syntax highlighting
 syntax on
 
-set noswapfile
 
 " Press [shift] while selecting with the mouse if you want to use
 " mouse to interact with terminal
@@ -63,3 +62,6 @@ set number			" show line numbers on the left
 set autoread			" automatically refresh files if unmodified inside vim
 set encoding=utf-8		" use an encoding that supports unicode
 set history=256			" increase the undo limit
+set visualbell          " flash the screen instead of beeping on errors
+set noswapfile          " disable swap files
+
