@@ -63,5 +63,6 @@ set autoread			" automatically refresh files if unmodified inside vim
 set encoding=utf-8		" use an encoding that supports unicode
 set history=256			" increase the undo limit
 set visualbell          " flash the screen instead of beeping on errors
+set t_vb=
 set noswapfile          " disable swap files
 
