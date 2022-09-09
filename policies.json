@@ -1,4 +1,9 @@
+
 {
+    "_comment_": {
+        "macOS": "create a directory called distribution in the Contents/Resources directory and place the policies.json file into that directory."
+    }
+    
     "policies": {
         "DisableAppUpdate": true
     }
