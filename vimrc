@@ -66,3 +66,12 @@ set visualbell          " flash the screen instead of beeping on errors
 set t_vb=
 set noswapfile          " disable swap files
 
+
+function! s:python_config()
+	set foldmethod=indent
+	nnoremap <space> za
+	vnoremap <space> zf
+	set foldnestmax=2
+endfunction
+
+autocmd FileType python call s:python_config()
