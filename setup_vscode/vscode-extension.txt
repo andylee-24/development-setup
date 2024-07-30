@@ -1,0 +1,5 @@
+ms-python.python
+GitHub.copilot
+mhutchie.git-graph
+talshalti.netron
+iliazeus.vscode-ansi
