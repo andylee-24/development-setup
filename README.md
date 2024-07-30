@@ -10,5 +10,5 @@ Packages used in [.vimrc](https://github.com/alanskye/vimrc/blob/main/.vimrc):
 
 ### visual studio code extension
 ---
-Modified from [vscode-extension-install-automation](https://github.com/mugglim vscode-extension-install-automation/tree/main)  
+Modified from [vscode-extension-install-automation](https://github.com/mugglim/vscode-extension-install-automation/tree/main)  
 Add vscode identifers you want to install to the txt file. You can find the 'Unique Identifier' in vscode marketplace website
