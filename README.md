@@ -12,6 +12,10 @@ Packages used in [.vimrc](https://github.com/alanskye/vimrc/blob/main/.vimrc):
 ---
 Modified from [vscode-extension-install-automation](https://github.com/mugglim/vscode-extension-install-automation/tree/main)  
 Add vscode identifers you want to install to the txt file. You can find the 'Unique Identifier' in vscode marketplace website 
+* "python.defaultInterpreterPath": "/opt/conda/bin/python" - python import missings
+* "terminal.integrated.scrollback": 2048 - line limit for terminal
 
+
+### zsh setup
 ---
-* TODO: setting.json "python.defaultInterpreterPath": "/opt/conda/bin/python"
+script for some useful extensions and tmux configuration
