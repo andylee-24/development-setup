@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/opt/conda/bin/python",
+    "terminal.integrated.scrollback": 2048,
+}
