@@ -1,4 +1,5 @@
 {
     "python.defaultInterpreterPath": "/opt/conda/bin/python",
     "terminal.integrated.scrollback": 2048,
+    "terminal.integrated.persistentSessionReviveProcess": "never",
 }
