@@ -1,4 +1,5 @@
 * Ctrl+Tab: switch to the next tab
+* Ctrl+PageUp/Dn: switch between terminals
 * Ctrl+Shift+F: find in current workspace
 * Ctrl+P: open file
 * Ctrl+K+O (Windows): open directory
