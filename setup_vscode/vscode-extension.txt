@@ -4,3 +4,4 @@ mhutchie.git-graph
 talshalti.netron
 iliazeus.vscode-ansi
 mechatroner.rainbow-csv
+github.github-vscode-theme
