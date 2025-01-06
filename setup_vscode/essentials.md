@@ -9,3 +9,8 @@
 
 * ``Ctrl+L``: line select
 * ``Ctrl+H``: find & replace
+
+
+---
+* Useful colorthemes for finding out which server the window is connecting to
+* "Tokyo Night", "Monokai", "GitHub Dark"
