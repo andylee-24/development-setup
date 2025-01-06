@@ -23,3 +23,5 @@ done
 
 # Add vscode identifers you want to install to the txt file.
 # You can find the 'Unique Identifier' in the vscode marketplace website
+
+echo "open remote setting to change the color theme"
