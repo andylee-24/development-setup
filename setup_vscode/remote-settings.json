@@ -1,6 +1,6 @@
 {
-    "python.defaultInterpreterPath": "/opt/conda/bin/python",
     "terminal.integrated.scrollback": 2048,
     "terminal.integrated.persistentSessionReviveProcess": "never",
-    "workbench.colorTheme": "Tokyo Night"
+    "workbench.colorTheme": "Tokyo Night",
+    "python.terminal.activateEnvironment": false
 }
