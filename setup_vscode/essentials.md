@@ -14,3 +14,5 @@
 ---
 * Useful colorthemes for finding out which server the window is connecting to
 * "Tokyo Night", "Monokai", "GitHub Dark"
+---
+* conda nested env: ```conda config --set auto_activate_base False```
