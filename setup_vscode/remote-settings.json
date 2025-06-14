@@ -1,6 +1,8 @@
 {
     "terminal.integrated.scrollback": 2048,
     "terminal.integrated.persistentSessionReviveProcess": "never",
-    "workbench.colorTheme": "Tokyo Night",
-    "python.terminal.activateEnvironment": false
+    "python.terminal.activateEnvironment": false,
+    "explorer.sortOrder": "type",
+    "editor.guides.bracketPairs": true,
+    "git.autofetch": true,
 }
