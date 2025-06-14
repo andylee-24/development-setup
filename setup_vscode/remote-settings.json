@@ -5,4 +5,5 @@
     "explorer.sortOrder": "type",
     "editor.guides.bracketPairs": true,
     "git.autofetch": true,
+    "workbench.colorTheme": "Tokyo Night"
 }
