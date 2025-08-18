@@ -15,7 +15,10 @@ Add vscode identifers you want to install to the txt file. You can find the 'Uni
 * "python.defaultInterpreterPath": "/opt/conda/bin/python" - python import missings
 * "terminal.integrated.scrollback": 2048 - line limit for terminal
 
-
 ### zsh setup
 ---
 script for some useful extensions and tmux configuration
+
+### GitHub CLI
+* Please visit the [official manual](https://github.com/cli/cli/blob/v2.76.2/docs/install_linux.md)
+
