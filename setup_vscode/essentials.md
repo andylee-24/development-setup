@@ -16,3 +16,5 @@
 * "Tokyo Night", "Monokai", "GitHub Dark"
 ---
 * conda nested env: ```conda config --set auto_activate_base False```
+---
+* install vscode extension manually: ```code --install-extension [unique_identifier]```
