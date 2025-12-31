@@ -17,4 +17,6 @@
 ---
 * conda nested env: ```conda config --set auto_activate_base False```
 ---
+* conda auto activate ```{ "python.terminal.activateEnvironment": false }```
+---
 * install vscode extension manually: ```code --install-extension [unique_identifier]```
